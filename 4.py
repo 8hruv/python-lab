@@ -1,0 +1,11 @@
+n=input()
+a=int(n)
+print(a,type(a))
+b=float(n)
+print(b,type(b))
+c=[2,3,54]
+print(c,type(c))
+d=(34,56)
+print(d,type(d))
+e={int:'01',odd:'34'}
+print(e,type(e))
